@@ -1,11 +1,11 @@
 # Graphcis, Touch, Sound and USB #
-##PIC32 Mikromedia  (Beta)##
+##PIC32 Mikromedia Plus (Beta)##
 
 ### What is this repository for? ###
 
 * This repository contains the source code for all the projects and exercises offered in the book "Graphics, Touch, Sound and USB" (http://blog.flyingpic24.com/gtsu)
-* It contains the PIC32 Mikromedia specific version of all the Board Support Packages (/uMB folder)
-* Other Mikromedia versions are available or currently in development including (PIC24, PIC24EP, PIC32 Plus…)
+* It contains the PIC32 Mikromedia Plus specific version of all the Board Support Packages (/uMB folder)
+* Other Mikromedia versions are available or currently in development including (PIC24, PIC24EP, PIC32…)
 
 ### How do I get set up? ###
 
